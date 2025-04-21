@@ -1,0 +1,7 @@
+.cursor
+.vscode
+.idea
+.DS_Store
+go.sum
+12306-mcp-service
+12306-mcp-service.exe
