@@ -13,7 +13,7 @@
 ## 安装
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/xpfyg/12306-mcp-service.git
 cd 12306-mcp
 go mod init 12306-mcp
 go mod tidy
