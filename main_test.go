@@ -26,8 +26,8 @@ func TestQueryTicketsHandler(t *testing.T) {
 		{
 			name:          "正常查询",
 			fromStation:   "杭州",
-			toStation:     "孝感",
-			date:          "2025-04-19",
+			toStation:     "武汉",
+			date:          "2025-04-26",
 			expectedError: false,
 		},
 	}
